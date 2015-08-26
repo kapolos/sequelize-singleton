@@ -1,5 +1,5 @@
 # sequelize-singleton
 
- Fork from jspizziri/sequelize-singleton
+ Fork from [jspizziri/sequelize-singleton](https://github.com/jspizziri/sequelize-singleton)
  
- ### Quick change to make it work with sequelize 3.x
+**Quick fix to make it work with sequelize 3.x**
